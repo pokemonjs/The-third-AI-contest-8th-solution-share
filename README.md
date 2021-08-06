@@ -8,7 +8,7 @@
 -|data
 -|work
 -README.MD
--2259900.ipynb
+-2259900.ipynb notebook文件，详细描述了项目的使用和构建过程
 -transforms.py functional.py 增加了cutout的数据增强程序
 -coordatt.py ocrnet.py 增加了注意力机制的OCRNet模型程序文件
 ```
